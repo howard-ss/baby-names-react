@@ -29,5 +29,7 @@ export default App;
 /**
  * Level 1: 
  * display all the names in a single div, using span elements to wrap each name. 
- * Apply the boy or girl class name to each span element based on the sex property.
+ * implement the boy or girl class name to each span element based on the sex property.
+ * 
+ * 
  */
